@@ -32,7 +32,7 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 |:--------------------------------------|:--------------|
 | Scope                                 | Global        |
 | Unique Value                          | No            |
-| Add to Column Options                 | No            |
+| Add to Column Options                 | Yes           |
 | Use in Filter Option                  | Yes           |
 
 
