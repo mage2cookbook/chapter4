@@ -15,10 +15,37 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 
 ###### Attribute Properties
 | Name                                  | Value         |
-| --------------------------------------|:-------------:|
+|:--------------------------------------|:--------------|
 | Default label                         | shoe_size     |
 | Catalog Input Type for Store Owners   | dropdown      |
 | Values Required                       | No            |
+
+######  Advanced Attribute Properties
+| English      | Admin       | French     | German      |
+|:-------------|:------------|:-----------|:------------|
+| 4            | 4           | 35         | 35          |
+
+
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | No            |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French       | German           |
+|:--------------------|:-------------|:-----------------|
+| Size                | Taille       | Größe            |
+
+
+
+
+
+
 
 ### show_type
 
@@ -29,8 +56,3 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 ### gender
 
 ### occasion
-
-
-
-
-
