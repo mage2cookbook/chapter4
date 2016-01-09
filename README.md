@@ -13,8 +13,6 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 
 ### shoe_size
 
-Colons can be used to align columns.
-
 ###### Attribute Properties                                  
 | --------------------------------------|:-------------:|
 | Default label | shoe_size                             |
