@@ -15,7 +15,7 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 
 Colons can be used to align columns.
 
-| Attribute Properties                                  |
+###### Attribute Properties                                  
 | --------------------------------------|:-------------:|
 | Default label | shoe_size                             |
 | Catalog Input Type for Store Owners   | dropdown      |
