@@ -42,8 +42,26 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 | Size                | Taille       | Größe            |
 
 
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | No                       |
+| Comparable in Storefront               | No                       |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | No                       |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | Yes                      |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
 
 
+######  Edit Attribute Set Name
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Name                                  | Shoes         |
+| Based On                              | Default       |
 
 
 
@@ -56,3 +74,4 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 ### gender
 
 ### occasion
+
