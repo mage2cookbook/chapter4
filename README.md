@@ -13,9 +13,10 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 
 ### shoe_size
 
-###### Attribute Properties                                  
+###### Attribute Properties
+| Name                                  | Value         |
 | --------------------------------------|:-------------:|
-| Default label | shoe_size                             |
+| Default label                         | shoe_size     |
 | Catalog Input Type for Store Owners   | dropdown      |
 | Values Required                       | No            |
 
@@ -28,3 +29,8 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 ### gender
 
 ### occasion
+
+
+
+
+
