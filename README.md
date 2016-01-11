@@ -4,14 +4,15 @@
 
 The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of The Magento 2 Cook Book
 
+---
+# Shoe set
+
 - shoe_size
 - shoe_type
 - width
 - color
 - gender
 - occasion
-
----
 
 ### shoe_size
 
@@ -305,6 +306,17 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 ---
 ---
 
+# Clothes set
+
+- color (re-use)
+- occasion (re-use)
+- apparel_type
+- sleeve_length
+- fit
+- size
+- length
+- gender (re-use)
+
 ### apparel_type
 
 ---
@@ -329,15 +341,6 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 ######  Edit Attribute Set Name
 | Name                                  | Value         |
 |:--------------------------------------|:--------------|
-| Name                                  | Shoes         |
+| Name                                  | Clothes       |
 | Based On                              | Default       |
-
-
-
-
-
-
-
-
-
 
