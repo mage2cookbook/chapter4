@@ -24,7 +24,10 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 | English      | Admin       | French     | German      |
 |:-------------|:------------|:-----------|:------------|
 | 4            | 4           | 35         | 35          |
+| 4.5          | 4.5         | 35         | 35          |
+| 5            | 5           | 35-36      | 35-36       |
 
+Continue the rest of the chart accordingly <www.shoesizingcharts.com>
 
 
 ######  Advanced Attribute Properties
@@ -74,4 +77,8 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 ### gender
 
 ### occasion
+
+
+
+
 
