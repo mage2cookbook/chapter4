@@ -113,18 +113,186 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 
 ### width
 
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | width         |
+| Catalog Input Type for Store Owners   | Text Field    |
+| Values Required                       | No            |
+
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Width               | Largeur            | Breite           |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | No                       |
+| Comparable in Storefront               | No                       |
+| Use in Layered Navigation              | No                       |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | No                       |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | No                       |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
+
 ---
 
 ### color
+
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | color         |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | No            |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French       | German      |
+|:-------------|:------------|:-------------|:------------|
+| Black        | Black       | Noir         | Scharz      |
+| Blue         | Blue        | Bleu         | Blau        |
+| Brown        | Brown       | Brun         | Braun       |
+| Green        | Green       | Vert         | Grün        |
+| Red          | Red         | Rouge        | Rot         |
+| Yellow       | Yellow      | Jaune        | Gelb        |
+| White        | White       | Blanc        | Weiß        |
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Color               | Couleur            | Farbe            |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | Yes                      |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | No                       |
+| Allow HTML Tags on Storefront          | No                       |
+| Visible on Catalog Pages on Storefront | Yes                      |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
 
 ---
 
 ### gender
 
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | gender        |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | No            |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French       | German      |
+|:-------------|:------------|:-------------|:------------|
+| Female       | Female      | Femelle      | Weiblich    |
+| Male         | Male        | Mâle         | Männlich    |
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Store View    |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Gender              | Genre              | Geschlecht       |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | No                       |
+| Use in Layered Navigation              | No                       |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | No                       |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | Yes                      |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
+
 ---
 
 ### occasion
 
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | occasion      |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | No            |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French       | German      |
+|:-------------|:------------|:-------------|:------------|
+| Career       | Career      | Carrière     | Karriere    |
+| Casual       | Casual      | Décontractée | Beiläufig   |
+| Evening      | Evening     | Soirée       | Abend       |
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Occasion            | Occasion           | Gelegenheit      |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | Yes                      |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | Yes                      |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | Yes                      |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
 
 ---
 
