@@ -308,33 +308,255 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 
 # Clothes set
 
-- color (re-use)
-- occasion (re-use)
+- color (reuse)
+- occasion (reuse)
 - apparel_type
 - sleeve_length
 - fit
 - size
 - length
-- gender (re-use)
+- gender (reuse)
 
 ### apparel_type
+
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | apparel_type  |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | Yes           |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French       | German      |
+|:-------------|:------------|:-------------|:------------|
+| Blazers      | Blazers     | Blazers      | Blazers     |
+| Blouses      | Blouses     | Blouses      | Blusen      |
+| Denim        | Denim       | Toile de jean| Denim       |
+| Dresses      | Dresses     | Robes        | Kleider     |
+| Pants        | Pants       | les pantalons| Hose        |
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Type                | Type               | Art              |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | Yes                      |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | Yes                      |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | Yes                      |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
 
 ---
 
 ### sleeve_length
 
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | sleeve_length |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | No            |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French       | German      |
+|:-------------|:------------|:-------------|:------------|
+| 3/4 Sleeve   | 3/4 Sleeve  | 3/4 Manche   | 3/4 Ärmel   |
+| Long Sleeve  | Long Sleeve | Manche longue| Lange Ärmel |
+| Short Sleeve | Short Sleeve| Manche courte| Kurz Ärmel  |
+| Sleeveless   | Sleeveless  | Sans manches | Ärmellos    |
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French              | German           |
+|:--------------------|:--------------------|:-----------------|
+| Sleeve Length       | Longueur des manches| Ärmellänge       |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | No                       |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | No                       |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | No                       |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
+
 ---
 
 ### fit
+
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | fit           |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | No            |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French           | German       |
+|:-------------|:------------|:-----------------|:-------------|
+| Boot cut     | Boot cut    | Jambe semi-évasée| Boot-Cut     |
+| Cropped      | Cropped     | Tondu            | Freigestellte|
+| Jeans        | Jeans       | Jeans            | Jeans        |
+| Leggings     | Leggings    | Guêtres          | Gamaschen    |
+| Regular      | Regular     | Ordinaire        | Regulär      |
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Fit                 | Fit                | Passen           |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | no                       |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | No                       |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | No                       |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
 
 ---
 
 ### size
 
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | size          |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | No            |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French       | German      |
+|:-------------|:------------|:-------------|:------------|
+| S            | S           | S            | S           |
+| M            | M           | M            | S           |
+| L            | L           | L            | L           |
+| XL           | XL          | XL           | XL          |
+| XXL          | XXL         | XXL          | XXL         |
+
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Size                | Taille             | Größe            |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | No                       |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | No                       |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | Yes                      |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
+
 ---
 
 ### length
 
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | length        |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | No            |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French           | German      |
+|:-------------|:------------|:-----------------|:------------|
+| Knee Length  | Knee Length | longueur au genou| Knielänge   |
+| Long         | Long        | Long             | Lange       |
+| Short        | Short       | Court            | Kurz        |
+
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
+
+
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Length              | Longueur           | Länge            |
+
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | No                       |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | No                       |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | Yes                      |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
 
 ---
 
