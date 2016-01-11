@@ -11,6 +11,8 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 - gender
 - occasion
 
+---
+
 ### shoe_size
 
 ######  Attribute Properties
@@ -59,13 +61,6 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Used in Product Listing                | No                       |
 | Used for Sorting in Product Listing    | No                       |
 
-
-######  Edit Attribute Set Name
-| Name                                  | Value         |
-|:--------------------------------------|:--------------|
-| Name                                  | Shoes         |
-| Based On                              | Default       |
-
 ---
 
 ### shoe_type
@@ -85,17 +80,62 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Boots        | Boots       | Bottes       | Stiefel     |
 | Casual       | Casual      | Décontractée | Beiläufig   |
 
+######  Advanced Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Scope                                 | Global        |
+| Unique Value                          | No            |
+| Add to Column Options                 | Yes           |
+| Use in Filter Option                  | Yes           |
 
 
+######  Manage Titles (Size, Color, etc.)
+| English             | French             | German           |
+|:--------------------|:-------------------|:-----------------|
+| Shoe type           | Type de chaussures | Schuhtyp         |
 
+
+######  Storefront Properties
+| Name                                   | Value                    |
+|:---------------------------------------|:-------------------------|
+| Use in Search                          | Yes                      |
+| Comparable in Storefront               | No                       |
+| Use in Layered Navigation              | Filterable (with result) |
+| Use in Search Result Layered Navigation| No                       |
+| Position                               | 0                        |
+| Use for Promo Rule Conditions          | Yes                      |
+| Allow HTML Tags on Storefront          | Yes                      |
+| Visible on Catalog Pages on Storefront | No                       |
+| Used in Product Listing                | No                       |
+| Used for Sorting in Product Listing    | No                       |
+
+---
 
 ### width
 
+---
+
 ### color
+
+---
 
 ### gender
 
+---
+
 ### occasion
+
+
+---
+
+######  Edit Attribute Set Name
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Name                                  | Shoes         |
+| Based On                              | Default       |
+
+
+
 
 
 
