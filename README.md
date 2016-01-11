@@ -27,7 +27,7 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 | 4.5          | 4.5         | 35         | 35          |
 | 5            | 5           | 35-36      | 35-36       |
 
-Continue the rest of the chart accordingly <www.shoesizingcharts.com>
+Continue the rest of the chart accordingly www.shoesizingcharts.com
 
 
 ######  Advanced Attribute Properties
