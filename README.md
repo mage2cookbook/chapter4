@@ -302,6 +302,38 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Name                                  | Shoes         |
 | Based On                              | Default       |
 
+---
+---
+
+### apparel_type
+
+---
+
+### sleeve_length
+
+---
+
+### fit
+
+---
+
+### size
+
+---
+
+### length
+
+
+---
+
+######  Edit Attribute Set Name
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Name                                  | Shoes         |
+| Based On                              | Default       |
+
+
+
 
 
 
