@@ -1,8 +1,12 @@
 # chapter4
 
+Upcoming Magento 2 CookBook by Packtpub Publishing medio 2016
+
+written by: Ray Bogman & Vladimir Kerkhoff
+
 # Managing Attribute set
 
-The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of The Magento 2 Cook Book
+The following attributes apply to Chapter 4, Recipe Mananging Attribute set.
 
 ---
 # Shoe set
