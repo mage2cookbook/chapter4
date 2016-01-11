@@ -13,14 +13,14 @@ The following attributes apply to Chapter 4, Recipe Mananging Attrbute set of Th
 
 ### shoe_size
 
-###### Attribute Properties
+######  Attribute Properties
 | Name                                  | Value         |
 |:--------------------------------------|:--------------|
 | Default label                         | shoe_size     |
 | Catalog Input Type for Store Owners   | dropdown      |
 | Values Required                       | No            |
 
-######  Advanced Attribute Properties
+###### Manage Options (values of your attribute)
 | English      | Admin       | French     | German      |
 |:-------------|:------------|:-----------|:------------|
 | 4            | 4           | 35         | 35          |
@@ -66,9 +66,28 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Name                                  | Shoes         |
 | Based On                              | Default       |
 
+---
+
+### shoe_type
+
+###### Attribute Properties
+| Name                                  | Value         |
+|:--------------------------------------|:--------------|
+| Default label                         | shoe_type     |
+| Catalog Input Type for Store Owners   | dropdown      |
+| Values Required                       | Yes           |
+
+###### Manage Options (values of your attribute)
+| English      | Admin       | French       | German      |
+|:-------------|:------------|:-------------|:------------|
+| Athletic     | Athletic    | Sportif      | Sportif     |
+| Biking       | Biking      | Vélo         | Rad fahren  |
+| Boots        | Boots       | Bottes       | Stiefel     |
+| Casual       | Casual      | Décontractée | Beiläufig   |
 
 
-### show_type
+
+
 
 ### width
 
