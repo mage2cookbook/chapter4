@@ -572,3 +572,11 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Name                                  | Clothes       |
 | Based On                              | Default       |
 
+---
+---
+
+# Creating products
+
+The following attributes apply to Chapter 4, Creating products.
+
+---
