@@ -83,7 +83,8 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Athletic     | Athletic    | Sportif      | Sportif     |
 | Biking       | Biking      | Vélo         | Rad fahren  |
 | Boots        | Boots       | Bottes       | Stiefel     |
-| Casual       | Casual      | Décontractée | Beiläufig   |
+| Casual       | Casual      | Décontractée | Beiläufig  
+| Pumps	       | Pumps       | Pumps        | Pumps       |
 
 ######  Advanced Attribute Properties
 | Name                                  | Value         |
@@ -175,7 +176,8 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Green        | Green       | Vert         | Grün        |
 | Red          | Red         | Rouge        | Rot         |
 | Yellow       | Yellow      | Jaune        | Gelb        |
-| White        | White       | Blanc        | Weiß        |
+| White        | White       | Blanc        | Weiß      |
+| Ivory	       | Ivory       | Ivoire       | Elfenbein   |			
 
 ######  Advanced Attribute Properties
 | Name                                  | Value         |
