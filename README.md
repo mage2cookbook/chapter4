@@ -583,3 +583,20 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 The following attributes apply to Chapter 4, Creating products.
 
 ---
+
+######  Product Details
+| Name                 | Value                         |
+|:---------------------|:------------------------------|
+| Name                 | Ellis Flat                    |  
+| SKU                  | shw005	                       |
+| Price                | 250.00                        |
+| Tax Class            | Taxable Goods                 |
+| Images and Videos    | shw005a_5.jpg , shw005b_5.jpg |
+| Quantity             | 100                                      |
+| Weight               | Yes                                      |
+| Categories           | Shoes                                    |
+| Description          | Suede upper. Rubber 0.5" heel. Domestic. |
+
+---
+
+
