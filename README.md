@@ -177,7 +177,8 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Red          | Red         | Rouge        | Rot         |
 | Yellow       | Yellow      | Jaune        | Gelb        |
 | White        | White       | Blanc        | Weiß      |
-| Ivory	       | Ivory       | Ivoire       | Elfenbein   |			
+| Ivory	       | Ivory       | Ivoire       | Elfenbein   |		
+| Indigo       | Indigo      | Indigo       | Indigo      |	
 
 ######  Advanced Attribute Properties
 | Name                                  | Value         |
@@ -340,6 +341,7 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Denim        | Denim       | Toile de jean| Denim       |
 | Dresses      | Dresses     | Robes        | Kleider     |
 | Pants        | Pants       | les pantalons| Hose        |
+| Outerwear    | Outerwear   | Outerwear    | Outerwear   |
 
 ######  Advanced Attribute Properties
 | Name                                  | Value         |
