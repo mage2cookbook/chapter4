@@ -587,7 +587,7 @@ The following attributes apply to Chapter 4, Creating products.
 - Ellis Flat
 - Broadway Pump
 
-Choose attribute shoe_size for this setup.
+Choose attribute **shoe_size** for this setup.
 
 ---
 
@@ -627,6 +627,7 @@ Choose attribute shoe_size for this setup.
 - Noa Sheer Blouse
 
 Choose attribute **size** for this setup.
+
 ---
 
 ######  Product Details
