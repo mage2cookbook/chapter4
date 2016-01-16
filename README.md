@@ -342,7 +342,8 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 | Dresses      | Dresses     | Robes        | Kleider     |
 | Pants        | Pants       | les pantalons| Hose        |
 | Outerwear    | Outerwear   | Outerwear    | Outerwear   |
-
+| Tops         | Tops        | Tops         | Tops        |
+ 
 ######  Advanced Attribute Properties
 | Name                                  | Value         |
 |:--------------------------------------|:--------------|
