@@ -582,7 +582,8 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 
 The following attributes apply to Chapter 4, Creating products.
 
-All images are located [here]: https://github.com/mage2cookbook/chapter4/tree/master/images 
+All images are located [here]
+[here]: https://github.com/mage2cookbook/chapter4/tree/master/images
 
 # Catalog Shoes
 
