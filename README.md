@@ -582,6 +582,13 @@ Continue the rest of the chart accordingly www.shoesizingcharts.com
 
 The following attributes apply to Chapter 4, Creating products.
 
+# Catalog Shoes
+
+- Ellis Flat
+- Broadway Pump
+
+Choose attribute shoe_size for this setup.
+
 ---
 
 ######  Product Details
@@ -592,10 +599,63 @@ The following attributes apply to Chapter 4, Creating products.
 | Price                | 250.00                        |
 | Tax Class            | Taxable Goods                 |
 | Images and Videos    | shw005a_5.jpg , shw005b_5.jpg |
-| Quantity             | 100                                      |
-| Weight               | Yes                                      |
-| Categories           | Shoes                                    |
+| Quantity             | 100                           |
+| Weight               | Yes                           |
+| Categories           | Shoes                         |
 | Description          | Suede upper. Rubber 0.5" heel. Domestic. |
+
+---
+
+######  Product Details
+| Name                 | Value                         |
+|:---------------------|:------------------------------|
+| Name                 | Broadway Pump                 |
+| SKU                  | shw004                        |
+| Price                | 410.00                        |
+| Tax Class            | Taxable Goods                 |
+| Images and Videos    | shw004a_5.jpg , shw004b_5.jpg |
+| Quantity             | 100                           |
+| Weight               | Yes                           |
+| Categories           | Shoes                         |
+| Description          | Dyed mohair upper. 3.5" heel. Leather insole and lining. Imported. |
+
+---
+
+# Catalog Clothes
+
+- Brooklyn Jean Jacket
+- Noa Sheer Blouse
+
+Choose attribute size for this setup.
+---
+
+######  Product Details
+| Name                 | Value                         |
+|:---------------------|:------------------------------|
+| Name                 | Brooklyn Jean Jacket          |
+| SKU                  | pwt007                        |
+| Price                | 320.00                        |
+| Tax Class            | Taxable Goods                 |
+| Images and Videos    | pwt007a_4.jpg , pwt007b_4.jpg |
+| Quantity             | 100                           |
+| Weight               | Yes                           |
+| Categories           | Clothes                       |
+| Description          | Stretch denim jacket with contrast stitching. Two front flap pockets with button closure. 20" length from back of collar. Available in Indigo. Machine wash. |
+
+---
+
+######  Product Details
+| Name                 | Value                         |
+|:---------------------|:------------------------------|
+| Name                 | Noa Sheer Blouse              |
+| SKU                  | pwt006                        |
+| Price                | 175.00                        |
+| Tax Class            | Taxable Goods                 |
+| Images and Videos    | pwt006a_4.jpg , pwt006b_4.jpg , pwt006t_4.jpg |
+| Quantity             | 100                           |
+| Weight               | Yes                           |
+| Categories           | Clothes                       |
+| Description          | Semi sheer, sleeveless collar shirt. Back pleat. Front button closure. Available in Black. Polyester. Machine wash. |
 
 ---
 
