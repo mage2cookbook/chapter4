@@ -626,7 +626,7 @@ Choose attribute shoe_size for this setup.
 - Brooklyn Jean Jacket
 - Noa Sheer Blouse
 
-Choose attribute size for this setup.
+Choose attribute **size** for this setup.
 ---
 
 ######  Product Details
